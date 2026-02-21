@@ -1,37 +1,37 @@
 status,official_name,ocr_input,note
-exact,Abrade,Abrade,
-exact,Brain Freeze,Brain Freeze,
-exact,Caustic Bronco,Caustic Bronco,
-exact,Dack Fayden,Dack Fayden,
+exact,Orcish Bowmasters,Orcish Bowmasters,
 exact,Darkstar Augur,Darkstar Augur,
-exact,Daze,Daze,
+corrected,LÃ³rien Revealed,Lorien Revealed,corrected from: Lorien Revealed
+exact,"Teferi, Time Raveler","Teferi, Time Raveler",
 exact,Deep-Cavern Bat,Deep-Cavern Bat,
+corrected,Troll of Khazad-dÃ»m,Troll of Khazad-dum,corrected from: Troll of Khazad-dum
+exact,Dack Fayden,Dack Fayden,
+exact,Caustic Bronco,Caustic Bronco,
+exact,Urza's Saga,Urza's Saga,
+corrected,Xander's Lounge,Xander' $ Lounge,corrected from: Xander' $ Lounge
+exact,Lingering Souls,Lingering Souls,
 exact,Dragon's Rage Channeler,Dragon's Rage Channeler,
-exact,Expressive Iteration,Expressive Iteration,
+exact,Volcanic Island,Volcanic Island,
 exact,Fire Covenant,Fire Covenant,
 exact,Fury,Fury,
-exact,Galvanic Discharge,Galvanic Discharge,
-exact,Godless Shrine,Godless Shrine,
-exact,Imperial Seal,Imperial Seal,
-exact,Lingering Souls,Lingering Souls,
-corrected,Lion's Eye Diamond,Lion'$ Eye Diamond,corrected from: Lion'$ Eye Diamond
-corrected,LÃ³rien Revealed,Lorien Revealed,corrected from: Lorien Revealed
-exact,Marsh Flats,Marsh Flats,
-corrected,Mox Diamond,Mox Diamond_,corrected from: Mox Diamond_
-exact,Mox Ruby,Mox Ruby,
-corrected,Multiversal Passage,Multiversal Passage__,corrected from: Multiversal Passage__
-exact,Orcish Bowmasters,Orcish Bowmasters,
-exact,Polluted Delta,Polluted Delta,
-exact,Prismatic Vista,Prismatic Vista,
-corrected,Seething Landscape,Seething Landscape_,corrected from: Seething Landscape_
-exact,Snuff Out,Snuff Out,
 corrected,Stock Up,Stock,corrected from: Stock
-exact,"Teferi, Time Raveler","Teferi, Time Raveler",
-exact,Timetwister,Timetwister,
-corrected,Troll of Khazad-dÃ»m,Troll of Khazad-dum,corrected from: Troll of Khazad-dum
 exact,Underground Sea,Underground Sea,
-exact,Underworld Breach,Underworld Breach,
-exact,Urza's Saga,Urza's Saga,
-exact,Volcanic Island,Volcanic Island,
+exact,Galvanic Discharge,Galvanic Discharge,
+exact,Timetwister,Timetwister,
+exact,Godless Shrine,Godless Shrine,
+exact,Snuff Out,Snuff Out,
+exact,Prismatic Vista,Prismatic Vista,
 exact,Windfall,Windfall,
-corrected,Xander's Lounge,Xander' $ Lounge,corrected from: Xander' $ Lounge
+exact,Imperial Seal,Imperial Seal,
+exact,Polluted Delta,Polluted Delta,
+exact,Abrade,Abrade,
+exact,Mox Ruby,Mox Ruby,
+exact,Marsh Flats,Marsh Flats,
+exact,Daze,Daze,
+corrected,Mox Diamond,Mox Diamond_,corrected from: Mox Diamond_
+corrected,Seething Landscape,Seething Landscape_,corrected from: Seething Landscape_
+exact,Expressive Iteration,Expressive Iteration,
+corrected,Lion's Eye Diamond,Lion'$ Eye Diamond,corrected from: Lion'$ Eye Diamond
+exact,Underworld Breach,Underworld Breach,
+corrected,Multiversal Passage,Multiversal Passage__,corrected from: Multiversal Passage__
+exact,Brain Freeze,Brain Freeze,
