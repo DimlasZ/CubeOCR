@@ -236,10 +236,7 @@ with edit_col:
     available = cube[~cube["scryfall_id"].isin(existing_ids)]
 
     search = st.text_input("Search card name", key="card_search")
-    if search:
-        filtered = available[available["name"].str.contains(search, case=False, na=False)]
-    else:
-        filtered = available
+    filtered = available[available["name"].str.contains(search, case=False, na=False)] if search else available
 
     if not filtered.empty:
         selected_card = st.selectbox("Select card to add", filtered["name"].tolist(), key="card_select")

@@ -12,7 +12,3 @@ __pycache__/
 # Output archives
 *.zip
 
-# Images
-*.png
-*.jpeg
-*.jpg

@@ -3,8 +3,3 @@ Tournament organizer
         exportscript which generates a new folder and uploads directly to the new google drive folder which it create.
 
 
-make an archetype selecter
-make a decktype selcter
-    maybe even automatic
-
-testfiles with assert instead of print. Improve testfiles for things i want to test.
