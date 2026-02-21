@@ -1,0 +1,29 @@
+status,official_name,ocr_input,note
+unmatched,,5ee,no match found
+exact,Badlands,Badlands,
+exact,Barrowgoyf,Barrowgoyf,
+exact,Black Lotus,Black Lotus,
+exact,Contaminated Landscape,Contaminated Landscape,
+exact,Currency Converter,Currency Converter,
+exact,Demonic Tutor,Demonic Tutor,
+exact,Dismember,Dismember,
+exact,Duress,Duress,
+exact,Fallen Shinobi,Fallen Shinobi,
+exact,"Goben, Gene-Splice Savant","Goben, Gene-Splice Savant",
+exact,Hullbreacher,Hullbreacher,
+exact,Kitesail Freebooter,Kitesail Freebooter,
+exact,Ledger Shredder,Ledger Shredder,
+exact,Long Goodbye,Long Goodbye,
+corrected,"Malcolm, Alluring Scoundrel",Malcolm Alluring Scoundrel,corrected from: Malcolm Alluring Scoundrel
+exact,Mana Leak,Mana Leak,
+corrected,Memory Jar,Memory Jar _,corrected from: Memory Jar _
+exact,Miscalculation,Miscalculation,
+corrected,Mishra's Bauble,Mishra s Bauble,corrected from: Mishra s Bauble
+exact,"Narset, Parter of Veils","Narset, Parter of Veils",
+exact,Remand,Remand,
+corrected,Scrawling Crawler,Scrawling Crawler_,corrected from: Scrawling Crawler_
+corrected,"Sheoldred, the Apocalypse",Sheoldred the Apocalypse,corrected from: Sheoldred the Apocalypse
+exact,Stern Scolding,Stern Scolding,
+exact,Time Spiral,Time Spiral,
+exact,Virtue of Persistence,Virtue of Persistence,
+exact,Watery Grave,Watery Grave,

@@ -1,0 +1,25 @@
+draws,player1,player1Wins,player2,player2Wins,round,tournamentDate
+0,Dimlas,2,Matthias,0,1,2026-01-24T23:00:00Z
+0,Lukas Stalder,2,Valentin,0,1,2026-01-24T23:00:00Z
+0,Tinu,2,Joel K.,1,1,2026-01-24T23:00:00Z
+1,Andrin,1,Yannik,1,1,2026-01-24T23:00:00Z
+0,Sili,1,Fubu,0,1,2026-01-24T23:00:00Z
+0,Noe T.,0,Tommy,2,1,2026-01-24T23:00:00Z
+0,Lukas Stalder,2,Andrin,0,2,2026-01-24T23:00:00Z
+0,Yannik,0,Noe T.,2,2,2026-01-24T23:00:00Z
+0,Tinu,0,Dimlas,2,2,2026-01-24T23:00:00Z
+0,Tommy,2,Sili,0,2,2026-01-24T23:00:00Z
+1,Fubu,1,Joel K.,1,2,2026-01-24T23:00:00Z
+0,Matthias,1,Valentin,2,2,2026-01-24T23:00:00Z
+0,Valentin,2,Fubu,0,3,2026-01-24T23:00:00Z
+0,Joel K.,0,Andrin,2,3,2026-01-24T23:00:00Z
+0,Lukas Stalder,2,Noe T.,1,3,2026-01-24T23:00:00Z
+0,Sili,1,Tinu,2,3,2026-01-24T23:00:00Z
+0,Yannik,0,Matthias,2,3,2026-01-24T23:00:00Z
+0,Tommy,1,Dimlas,2,3,2026-01-24T23:00:00Z
+0,Dimlas,2,Lukas Stalder,0,4,2026-01-24T23:00:00Z
+0,Tommy,2,Tinu,0,4,2026-01-24T23:00:00Z
+0,Joel K.,2,Yannik,1,4,2026-01-24T23:00:00Z
+0,Noe T.,2,Sili,0,4,2026-01-24T23:00:00Z
+0,Valentin,2,Andrin,1,4,2026-01-24T23:00:00Z
+0,Matthias,0,Fubu,2,4,2026-01-24T23:00:00Z

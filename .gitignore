@@ -1,0 +1,18 @@
+# Google OAuth credentials (NEVER commit these)
+credentials.json
+token.json
+
+# Config with sensitive IDs
+config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output archives
+*.zip
+
+# Images
+*.png
+*.jpeg
+*.jpg
