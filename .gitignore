@@ -12,3 +12,6 @@ __pycache__/
 # Output archives
 *.zip
 
+# Batch scripts
+*.bat
+
