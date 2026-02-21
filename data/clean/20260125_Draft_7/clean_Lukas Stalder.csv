@@ -1,31 +1,31 @@
-name
-Flickerwisp
-Charming Prince
-"Tamiyo, Inquisitive Student"
-"Toby, Beastie Befriender"
-Thraben Inspector
-Voice of Victory
-Solitude
-Soulherder
-Reprieve
-Sleight of Hand
-White Plume Adventurer
-Lose Focus
-Path to Exile
-"Adeline, Resplendent Cathar"
-Mana Drain
-Oust
-Parallax Wave
-"Wan Shi Tong, All-Knowing"
-Force of Will
-"Teferi, Hero of Dominaria"
-Mana Confluence
-Council's Judgment
-"Beza, the Bounding Spring"
-Meticulous Archive
-Force of Negation
-Flooded Strand
-Tundra
-Karakas
-Library of Alexandria
-Starting Town
+name,scryfall_id
+Flickerwisp,5bb3cb5c-8d66-4f5e-a9a9-917e6045f024
+Charming Prince,dcb94950-3f3e-4876-84f8-d5e4d9cfecee
+"Tamiyo, Inquisitive Student",2a717b98-cdac-416d-bf6c-f6b6638e65d1
+"Toby, Beastie Befriender",f33d3948-fe7b-4c3b-ab67-1022623fbb2b
+Thraben Inspector,2be39749-ad6f-4160-99eb-c677eee7f1b2
+Voice of Victory,ec3de5f4-bb55-4ab9-995f-f3e0dc22c1bb
+Solitude,47a6234f-309f-4e03-9263-66da48b57153
+Soulherder,50bc0f5b-7421-45b9-af85-86dd9821b7d8
+Reprieve,1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db
+Sleight of Hand,f3405184-dcda-4bb6-ade6-c2a87bc3296d
+White Plume Adventurer,b256ddc8-8b12-434c-a610-1a872e948f2f
+Lose Focus,985bdb0c-ce6c-4506-8163-76f3b2fdf5fb
+Path to Exile,045ce37b-86d2-4e56-84af-b6625b53d13c
+"Adeline, Resplendent Cathar",18092f68-b96e-4084-9eba-b240d2195d81
+Mana Drain,416d2d51-8f29-4e95-b037-e8c32b081e6c
+Oust,07313dd3-d0dc-40ca-98a3-fa4d39e5bcae
+Parallax Wave,fe30c0ff-f74b-456a-a61e-3720d84d713f
+"Wan Shi Tong, All-Knowing",777fcc21-2856-4181-8ecd-c272f9769e36
+Force of Will,ebc01ab4-d89a-4d25-bf54-6aed33772f4b
+"Teferi, Hero of Dominaria",5d10b752-d9cb-419d-a5c4-d4ee1acb655e
+Mana Confluence,504a69eb-3c2d-4bb1-b117-252b15acf0c2
+Council's Judgment,17f28b16-da65-41a8-ba4f-f1c5e104aad6
+"Beza, the Bounding Spring",fc310a26-b6a0-4e42-98ab-bdfd7b06cb63
+Meticulous Archive,652236c2-84ef-45e4-b5fc-ed6170bc3d6c
+Force of Negation,e9be371c-c688-44ad-ab71-bd4c9f242d58
+Flooded Strand,8c2996d9-3287-4480-8c04-7a378e37e3cf
+Tundra,0d08f5e4-d2d3-4659-86d4-a983d80e3b2c
+Karakas,605c2218-9d12-4ac3-a721-fca590b89847
+Library of Alexandria,e5145f31-a4ac-44ef-8f85-e4d95f2c9ff5
+Starting Town,fc7d1912-7e27-49ef-bd98-375d975a42b0
