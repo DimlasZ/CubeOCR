@@ -19,7 +19,7 @@ NOTEBOOKS = [
     "archetype_decktype_data_downloader",
 ]
 
-TIMEOUT_SECONDS = 1800  # 30 min — OCR on 12 players can be slow
+TIMEOUT_SECONDS = 600 
 
 
 def run_notebook(name: str) -> None:
