@@ -1,3 +1,5 @@
+import os
+import time
 import streamlit as st
 import pandas as pd
 from pathlib import Path
@@ -151,6 +153,15 @@ with st.sidebar:
         players,
         format_func=lambda p: f"✅ {p}" if p in saved_players else p,
     )
+
+    st.divider()
+    if st.button("🏁 Finish & Export", use_container_width=True, type="primary"):
+        st.session_state["finishing"] = True
+
+    if st.session_state.get("finishing"):
+        st.success("Export started — you can close this window now.")
+        time.sleep(1)
+        os._exit(0)
 
 # Init state
 init_player_state(draft, player)

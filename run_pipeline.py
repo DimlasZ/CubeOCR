@@ -41,6 +41,18 @@ def run_notebook(name: str) -> None:
     print(f"  Done: {name}")
 
 
+def run_script(name: str) -> None:
+    print(f"\n{'=' * 60}")
+    print(f"  Running: {name}")
+    print(f"{'=' * 60}")
+    subprocess.run(
+        [sys.executable, str(SCRIPTS / f"{name}.py")],
+        cwd=ROOT,
+        check=True,
+    )
+    print(f"  Done: {name}")
+
+
 def main() -> None:
     print("Starting draft pipeline...")
 
@@ -55,6 +67,8 @@ def main() -> None:
         [sys.executable, "-m", "streamlit", "run", str(SCRIPTS / "deck_editor.py")],
         cwd=ROOT,
     )
+
+    run_script("build_tournament_export")
 
 
 if __name__ == "__main__":
