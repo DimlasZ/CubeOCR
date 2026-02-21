@@ -1,50 +1,50 @@
 status,official_name,ocr_input,note
-corrected,Suplex,"""Suplex","corrected from: ""Suplex"
-unmatched,,7019 Cudo Ptoxy,no match found
-exact,Arid Mesa,Arid Mesa,
-unmatched,,Artifact,no match found
-exact,Bitter Reunion,Bitter Reunion,
-exact,Blightsteel Colossus,Blightsteel Colossus,
-exact,Bonecrusher Giant,Bonecrusher Giant,
-exact,Broadside Bombardiers,Broadside Bombardiers,
-exact,"Chandra, Torch of Defiance","Chandra, Torch of Defiance",
-unmatched,,Draw,no match found
+exact,Zealous Conscripts,Zealous Conscripts,
 exact,"Etali, Primal Conqueror","Etali, Primal Conqueror",
-unmatched,,"Fading = begining 4 (This artifact enters the battlefield of your upkeep, remove a fade",no match found
-exact,Faithless Looting,Faithless Looting,
-exact,Firebolt,Firebolt,
-exact,Flame Slash,Flame Slash,
-unmatched,,Flashback cards two cards; then discard twO,no match found
-corrected,"Gau, Feral Youth",Gau; Feral Youth,corrected from: Gau; Feral Youth
-exact,Glorybringer,Glorybringer,
-corrected,"Laelia, the Blade Reforged","Laelia,the Blade Reforged","corrected from: Laelia,the Blade Reforged"
-unmatched,,Legendary Creature Dwarf Berserker,no match found
-exact,Lotus Petal,Lotus Petal,
-exact,"Magda, Brazen Outlaw","Magda, Brazen Outlaw",
 exact,Marauding Mako,Marauding Mako,
-corrected,Mishra's Factory,Mishra $ Factory,corrected from: Mishra $ Factory
-unmatched,,Other Dwarves you control get +1/+0.,no match found
-unmatched,,Sacrifice five Treasures: Search your,no match found
-exact,Screaming Nemesis,Screaming Nemesis,
+exact,Broadside Bombardiers,Broadside Bombardiers,
 exact,Sneak Attack,Sneak Attack,
-unmatched,,Sorcery,no match found
-exact,Tangle Wire,Tangle Wire,
-exact,Tarfire,Tarfire,
-exact,Through the Breach,Through the Breach,
+corrected,"Gau, Feral Youth",Gau; Feral Youth,corrected from: Gau; Feral Youth
+corrected,Mishra's Factory,Mishra $ Factory,corrected from: Mishra $ Factory
+exact,Bitter Reunion,Bitter Reunion,
 exact,Triplicate Titan,Triplicate Titan,
 corrected,"Ulamog, the Infinite Gyre",Ulamogthe Infinite Gyre,corrected from: Ulamogthe Infinite Gyre
+exact,Tarfire,Tarfire,
+exact,Glorybringer,Glorybringer,
+exact,Arid Mesa,Arid Mesa,
+exact,"Chandra, Torch of Defiance","Chandra, Torch of Defiance",
+exact,Blightsteel Colossus,Blightsteel Colossus,
 exact,Volcanic Spite,Volcanic Spite,
-exact,Zealous Conscripts,Zealous Conscripts,
+corrected,Suplex,"""Suplex","corrected from: ""Suplex"
+exact,Flame Slash,Flame Slash,
+exact,Bonecrusher Giant,Bonecrusher Giant,
+corrected,"Laelia, the Blade Reforged","Laelia,the Blade Reforged","corrected from: Laelia,the Blade Reforged"
+exact,Through the Breach,Through the Breach,
+exact,Screaming Nemesis,Screaming Nemesis,
+exact,Firebolt,Firebolt,
+exact,Lotus Petal,Lotus Petal,
+exact,Faithless Looting,Faithless Looting,
+exact,"Magda, Brazen Outlaw","Magda, Brazen Outlaw",
+exact,Tangle Wire,Tangle Wire,
+unmatched,,Sorcery,no match found
+unmatched,,Artifact,no match found
+unmatched,,Legendary Creature Dwarf Berserker,no match found
+unmatched,,Draw,no match found
+unmatched,,"Fading = begining 4 (This artifact enters the battlefield of your upkeep, remove a fade",no match found
+unmatched,,Other Dwarves you control get +1/+0.,no match found
+unmatched,,Flashback cards two cards; then discard twO,no match found
+unmatched,,with four fade counters on i At the,no match found
 unmatched,,[Whenever a Dwarf you control becomes,no match found
-unmatched,,"card,",no match found
+unmatched,,"tapped, create a Treasure token",no match found
 unmatched,,"counter from it If you can t, sacrifice iL )",no match found
-unmatched,,creature At the beginning of each player' $ upkeep; or land they control for each,no match found
-unmatched,,fade counter on Tangle Wire.,no match found
+unmatched,,Sacrifice five Treasures: Search your,no match found
 unmatched,,library for an artifact Or,no match found
+unmatched,,"that player taps an untapped artifact,",no match found
+unmatched,,"card,",no match found
 unmatched,,"nothing ""Avacyn from _ cost; Then graleevard for is_ our left except what has abandoned exile iL.) (You may we can takel"" us! We 'flashbackcard caSt this have",no match found
 unmatched,,put that card onto the,no match found
-unmatched,,shuffle,no match found
-unmatched,,"tapped, create a Treasure token",no match found
-unmatched,,"that player taps an untapped artifact,",no match found
+unmatched,,creature At the beginning of each player' $ upkeep; or land they control for each,no match found
 unmatched,,then,no match found
-unmatched,,with four fade counters on i At the,no match found
+unmatched,,shuffle,no match found
+unmatched,,fade counter on Tangle Wire.,no match found
+unmatched,,7019 Cudo Ptoxy,no match found

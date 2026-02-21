@@ -1,39 +1,39 @@
 status,official_name,ocr_input,note
-unmatched,,"""TUreturn once Vou ve ripened",no match found
-unmatched,,Add 8,no match found
-exact,Animate Dead,Animate Dead,
 corrected,Archon of Cruelty,Archon ' of Cruelty,corrected from: Archon ' of Cruelty
-unmatched,,Artilact,no match found
-corrected,"Atraxa, Grand Unifier",Atraxa. Grand Unifier,corrected from: Atraxa. Grand Unifier
-exact,Baleful Mastery,Baleful Mastery,
-exact,Blood Crypt,Blood Crypt,
+corrected,Mind Twist,"Mind"" Twist","corrected from: Mind"" Twist"
+exact,Seasoned Pyromancer,Seasoned Pyromancer,
+exact,"Inti, Seneschal of the Sun","Inti, Seneschal of the Sun",
 exact,Bone Shards,Bone Shards,
-exact,Chain Lightning,Chain Lightning,
+corrected,"Atraxa, Grand Unifier",Atraxa. Grand Unifier,corrected from: Atraxa. Grand Unifier
+corrected,"Ivora, Insatiable Heir",Ivora: Insatiable Heir,corrected from: Ivora: Insatiable Heir
+exact,Baleful Mastery,Baleful Mastery,
+exact,Griselbrand,Griselbrand,
 exact,Charming Scoundrel,Charming Scoundrel,
-exact,Elegant Parlor,Elegant Parlor,
-exact,Entomb,Entomb,
-exact,Exhume,Exhume,
+exact,Giver of Runes,Giver of Runes,
+corrected,"Valgavoth, Terror Eater",Valgavoth Terror Eater,corrected from: Valgavoth Terror Eater
+corrected,"Ragavan, Nimble Pilferer",RagavanNimble Pilferer,corrected from: RagavanNimble Pilferer
+exact,Swords to Plowshares,Swords to Plowshares,
+exact,Animate Dead,Animate Dead,
 exact,Fiery Confluence,Fiery Confluence,
 exact,Get Lost,Get Lost,
-unmatched,,Ghoulcaller Gisa,no match found
-exact,Giver of Runes,Giver of Runes,
-exact,Griselbrand,Griselbrand,
-unmatched,,Instant,no match found
-exact,"Inti, Seneschal of the Sun","Inti, Seneschal of the Sun",
-corrected,"Ivora, Insatiable Heir",Ivora: Insatiable Heir,corrected from: Ivora: Insatiable Heir
-unmatched,,"Jour card 0f your Subrveil battlefield, When battlefield Shadowy Land (~:Add graveyard ) Shadowy Plains Backstreet ' library: tapped. Swamp Backsueet You may (Look enters Put It into entets the Iop thee",no match found
-corrected,Kolaghan's Command,Kolaghans Command,corrected from: Kolaghans Command
-corrected,Mind Twist,"Mind"" Twist","corrected from: Mind"" Twist"
-exact,Mox Pearl,Mox Pearl,
 exact,Necromancy,Necromancy,
-exact,Oliphaunt,Oliphaunt,
-corrected,"Ragavan, Nimble Pilferer",RagavanNimble Pilferer,corrected from: RagavanNimble Pilferer
-exact,Reanimate,Reanimate,
-unmatched,,Search your library for # card and put,no match found
-exact,Seasoned Pyromancer,Seasoned Pyromancer,
-corrected,Shadowy Backstreet,Shadowx Backstreet,corrected from: Shadowx Backstreet
-exact,Swords to Plowshares,Swords to Plowshares,
+exact,Chain Lightning,Chain Lightning,
 exact,Touch the Spirit Realm,Touch the Spirit Realm,
-corrected,"Valgavoth, Terror Eater",Valgavoth Terror Eater,corrected from: Valgavoth Terror Eater
-unmatched,,shuflle your library.,no match found
+exact,Reanimate,Reanimate,
+corrected,Kolaghan's Command,Kolaghans Command,corrected from: Kolaghans Command
+exact,Oliphaunt,Oliphaunt,
+exact,Exhume,Exhume,
+exact,Elegant Parlor,Elegant Parlor,
+exact,Blood Crypt,Blood Crypt,
+exact,Entomb,Entomb,
+exact,Mox Pearl,Mox Pearl,
+corrected,Shadowy Backstreet,Shadowx Backstreet,corrected from: Shadowx Backstreet
+unmatched,,Instant,no match found
+unmatched,,Artilact,no match found
+unmatched,,Search your library for # card and put,no match found
 unmatched,,that card into your graveyurd. Then,no match found
+unmatched,,shuflle your library.,no match found
+unmatched,,"""TUreturn once Vou ve ripened",no match found
+unmatched,,Add 8,no match found
+unmatched,,Ghoulcaller Gisa,no match found
+unmatched,,"Jour card 0f your Subrveil battlefield, When battlefield Shadowy Land (~:Add graveyard ) Shadowy Plains Backstreet ' library: tapped. Swamp Backsueet You may (Look enters Put It into entets the Iop thee",no match found

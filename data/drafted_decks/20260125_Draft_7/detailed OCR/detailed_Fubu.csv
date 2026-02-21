@@ -1,39 +1,39 @@
 status,official_name,ocr_input,note
-corrected,"Kellan, Planar Trailblazer","(Kellan, Planar Trailblazer","corrected from: (Kellan, Planar Trailblazer"
+exact,Finale of Devastation,Finale of Devastation,
+exact,Courser of Kruphix,Courser of Kruphix,
+exact,Fastbond,Fastbond,
 corrected,Six,(Six,corrected from: (Six
-unmatched,,4hsr,no match found
-unmatched,,Add 0,no match found
-exact,Amped Raptor,Amped Raptor,
-unmatched,,Artilact,no match found
-exact,Badgermole Cub,Badgermole Cub,
 exact,Baloth Prime,Baloth Prime,
 exact,Birds of Paradise,Birds of Paradise,
-exact,Bountiful Landscape,Bountiful Landscape,
-corrected,"Bristly Bill, Spine Sower","Bristly Bill,Spine Sower","corrected from: Bristly Bill,Spine Sower"
-exact,Courser of Kruphix,Courser of Kruphix,
 exact,Craterhoof Behemoth,Craterhoof Behemoth,
 exact,Exploration,Exploration,
-exact,Fastbond,Fastbond,
-exact,Finale of Devastation,Finale of Devastation,
-exact,Formidable Speaker,Formidable Speaker,
-unmatched,,"G0ji Cycling card: Drat card ) 3 , Discard this",no match found
-exact,Goldvein Hydra,Goldvein Hydra,
-exact,Greasewrench Goblin,Greasewrench Goblin,
-unmatched,,"Island, %r Mountain card, pUt it onto",no match found
-unmatched,,Land Add,no match found
-unmatched,,Legendary Planeswalker Minsc,no match found
 exact,Llanowar Elves,Llanowar Elves,
-corrected,"Minsc & Boo, Timeless Heroes",Minsc & Boo: Tlmeless Heroes 220,corrected from: Minsc & Boo: Tlmeless Heroes 220
-exact,Mox Sapphire,Mox Sapphire,
+exact,Goldvein Hydra,Goldvein Hydra,
+exact,Traveling Chocobo,Traveling Chocobo,
+exact,Greasewrench Goblin,Greasewrench Goblin,
+exact,Badgermole Cub,Badgermole Cub,
+corrected,"Kellan, Planar Trailblazer","(Kellan, Planar Trailblazer","corrected from: (Kellan, Planar Trailblazer"
+corrected,"Bristly Bill, Spine Sower","Bristly Bill,Spine Sower","corrected from: Bristly Bill,Spine Sower"
+exact,Scavenging Ooze,Scavenging Ooze,
+exact,Amped Raptor,Amped Raptor,
+exact,Shadowspear,Shadowspear,
 exact,Ramunap Excavator,Ramunap Excavator,
+exact,Taiga,Taiga,
+exact,Mox Sapphire,Mox Sapphire,
+exact,Zuran Orb,Zuran Orb,
+exact,Stomping Ground,Stomping Ground,
+exact,Wrenn and Six,Wrenn and Six,
+exact,Bountiful Landscape,Bountiful Landscape,
+exact,Formidable Speaker,Formidable Speaker,
+unmatched,,Artilact,no match found
+corrected,"Minsc & Boo, Timeless Heroes",Minsc & Boo: Tlmeless Heroes 220,corrected from: Minsc & Boo: Tlmeless Heroes 220
+unmatched,,Add 0,no match found
+unmatched,,Land Add,no match found
 duplicate,Bountiful Landscape,Sacrifice Bountiful Landscape:,duplicate removed
 unmatched,,Scarch your library for a basic Forest;,no match found
-exact,Scavenging Ooze,Scavenging Ooze,
-exact,Shadowspear,Shadowspear,
-exact,Stomping Ground,Stomping Ground,
-exact,Taiga,Taiga,
-exact,Traveling Chocobo,Traveling Chocobo,
-exact,Wrenn and Six,Wrenn and Six,
-exact,Zuran Orb,Zuran Orb,
-unmatched,,enlen Inc cehturernken,no match found
+unmatched,,"Island, %r Mountain card, pUt it onto",no match found
 unmatched,,the battlefield tapped; then shuffle.,no match found
+unmatched,,Legendary Planeswalker Minsc,no match found
+unmatched,,enlen Inc cehturernken,no match found
+unmatched,,"G0ji Cycling card: Drat card ) 3 , Discard this",no match found
+unmatched,,4hsr,no match found

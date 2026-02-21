@@ -1,25 +1,25 @@
 status,official_name,ocr_input,note
-corrected,Assassin's Trophy,Assassin $ Trophy,corrected from: Assassin $ Trophy
-exact,Bitter Triumph,Bitter Triumph,
+corrected,Smirking Spelljacker,Smirking Spelliacker,corrected from: Smirking Spelliacker
+corrected,Mystical Tutor,Mssucal Tutor,corrected from: Mssucal Tutor
 unmatched,,Dolequustrix,no match found
-exact,Ertai Resurrected,Ertai Resurrected,
-exact,Infernal Grasp,Infernal Grasp,
+corrected,Phantasmal Image,Phantasmal Imase,corrected from: Phantasmal Imase
 corrected,"Jace, Vryn's Prodigy",Jace Vomns Prodiy,corrected from: Jace Vomns Prodiy
-unmatched,,Lec,no match found
+exact,Ponder,Ponder,
+corrected,"Oko, Thief of Crowns","Oko;, Thief of Crowns","corrected from: Oko;, Thief of Crowns"
 corrected,"Leovold, Emissary of Trest",Leovold: Emissary ofTres,corrected from: Leovold: Emissary ofTres
 exact,Lotus Cobra,Lotus Cobra,
 exact,Mana Vault,Mana Vault,
-corrected,Mystical Tutor,Mssucal Tutor,corrected from: Mssucal Tutor
-exact,Murktide Regent,Murktide Regent,
-corrected,"Oko, Thief of Crowns","Oko;, Thief of Crowns","corrected from: Oko;, Thief of Crowns"
-corrected,Phantasmal Image,Phantasmal Imase,corrected from: Phantasmal Imase
-exact,Ponder,Ponder,
-exact,Psychic Frog,Psychic Frog,
-exact,Repeal,Repeal,
-corrected,Smirking Spelljacker,Smirking Spelliacker,corrected from: Smirking Spelliacker
-exact,Thoughtseize,Thoughtseize,
 exact,Time Walk,Time Walk,
+exact,Vendilion Clique,Vendilion Clique,
+unmatched,,Lec,no match found
+exact,Repeal,Repeal,
+corrected,Assassin's Trophy,Assassin $ Trophy,corrected from: Assassin $ Trophy
+exact,Bitter Triumph,Bitter Triumph,
+exact,Murktide Regent,Murktide Regent,
+exact,Infernal Grasp,Infernal Grasp,
+exact,Ertai Resurrected,Ertai Resurrected,
+exact,Thoughtseize,Thoughtseize,
+exact,Psychic Frog,Psychic Frog,
+corrected,"Wan Shi Tong, Librarian",Wan Shi Tong; Librarian,corrected from: Wan Shi Tong; Librarian
 exact,Unruly Krasis,Unruly Krasis,
 exact,Vampiric Tutor,Vampiric Tutor,
-exact,Vendilion Clique,Vendilion Clique,
-corrected,"Wan Shi Tong, Librarian",Wan Shi Tong; Librarian,corrected from: Wan Shi Tong; Librarian
