@@ -1,0 +1,34 @@
+status,official_name,ocr_input,note
+unmatched,,CUIuM,no match found
+unmatched,,Column 2,no match found
+unmatched,,Column 3,no match found
+exact,Watery Grave,Watery Grave,
+exact,Psychic Frog,Psychic Frog,
+corrected,"Wan Shi Tong, All-Knowing",Wan Shi Tong; All-Knowing,corrected from: Wan Shi Tong; All-Knowing
+exact,Undercity Sewers,Undercity Sewers,
+exact,Baleful Strix,Baleful Strix,
+exact,Tinker,Tinker,
+exact,Phyrexian Metamorph,Phyrexian Metamorph,
+exact,Raugrin Triome,Raugrin Triome,
+exact,Pentad Prism,Pentad Prism,
+corrected,"Urza, Lord High Artificer",Urza. Lord High Artificer,corrected from: Urza. Lord High Artificer
+exact,Prismatic Vista,Prismatic Vista,
+exact,Mind Stone,Mind Stone,
+corrected,Talisman of Creativity,licman nfCroativitv,corrected from: licman nfCroativitv
+exact,Mox Poison,Mox Poison,
+exact,"Kaito, Bane of Nightmares","Kaito, Bane of Nightmares",
+unmatched,,Le8,no match found
+corrected,Kolaghan's Command,Kolaghan s Command,corrected from: Kolaghan s Command
+exact,"Jace, the Mind Sculptor","Jace, the Mind Sculptor",
+exact,Lotus Petal,Lotus Petal,
+exact,Prismari Command,Prismari Command,
+corrected,"Karn, Scion of Urza","Karn,Scion of Urza","corrected from: Karn,Scion of Urza"
+exact,Fatal Push,Fatal Push,
+exact,Firebolt,Firebolt,
+exact,Wurmcoil Engine,Wurmcoil Engine,
+exact,Daze,Daze,
+exact,Heartless Act,Heartless Act,
+exact,Miscalculation,Miscalculation,
+exact,Quantum Riddler,Quantum Riddler,
+exact,Mana Drain,Mana Drain,
+unmatched,,(nstant,no match found

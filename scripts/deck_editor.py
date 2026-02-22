@@ -137,7 +137,12 @@ with st.sidebar:
         st.error("No draft folders found in data/clean/")
         st.stop()
 
-    draft = st.selectbox("Draft", draft_folders)
+    if "draft_select" not in st.session_state or st.session_state["draft_select"] not in draft_folders:
+        st.session_state["draft_select"] = draft_folders[-1]
+
+    draft_idx = draft_folders.index(st.session_state["draft_select"])
+    draft = st.selectbox("Draft", draft_folders, index=draft_idx)
+    st.session_state["draft_select"] = draft
     players = get_players(draft)
     if not players:
         st.error("No players found in this draft.")

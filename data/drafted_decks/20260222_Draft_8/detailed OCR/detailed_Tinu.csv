@@ -1,0 +1,32 @@
+status,official_name,ocr_input,note
+unmatched,,Column 1,no match found
+unmatched,,Column 2,no match found
+unmatched,,Column 3,no match found
+exact,Skullclamp,Skullclamp,
+exact,Sheltering Landscape,Sheltering Landscape,
+exact,Birds of Paradise,Birds of Paradise,
+corrected,Umezawa's Jitte,Umezawa $ Jitte,corrected from: Umezawa $ Jitte
+exact,Jacked Rabbit,Jacked Rabbit,
+unmatched,,Xlc,no match found
+exact,Ocelot Pride,Ocelot Pride,
+exact,Hexdrinker,Hexdrinker,
+exact,Malevolent Rumble,Malevolent Rumble,
+corrected,Sentinel of the Nameless City,Sentinel of the Nameless Cily,corrected from: Sentinel of the Nameless Cily
+exact,Stoneforge Mystic,Stoneforge Mystic,
+corrected,"Titania, Protector of Argoth","Titania,Protector of Argoth","corrected from: Titania,Protector of Argoth"
+exact,Strip Mine,Strip Mine,
+exact,Luminarch Aspirant,Luminarch Aspirant,
+exact,Indatha Triome,Indatha Triome,
+exact,Esper Sentinel,Esper Sentinel,
+exact,Lightstall Inquisitor,Lightstall Inquisitor,
+exact,Path to Exile,Path to Exile,
+corrected,"Elspeth, Storm Slayer","Elspeth, Storzi Siavzr","corrected from: Elspeth, Storzi Siavzr"
+exact,Winds of Abandon,Winds of Abandon,
+corrected,"Nissa, Who Shakes the World","Nissa, Who Shakes the World &","corrected from: Nissa, Who Shakes the World &"
+exact,Ursine Monstrosity,Ursine Monstrosity,
+exact,Mox Diamond,Mox Diamond,
+exact,Descendant of Storms,Descendant of Storms,
+exact,Oust,Oust,
+exact,Sowing Mycospawn,Sowing Mycospawn,
+exact,Kaldra Compleat,Kaldra Compleat,
+exact,Ademi of the Silkchutes,Ademi of the Silkchutes,
