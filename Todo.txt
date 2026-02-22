@@ -1,5 +1,0 @@
-Tournament organizer
-    fix the mobil and the PC problem
-        exportscript which generates a new folder and uploads directly to the new google drive folder which it create.
-
-
