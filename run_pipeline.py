@@ -13,9 +13,9 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 SCRIPTS = ROOT / "scripts"
 
-NOTEBOOKS = [
-    "cubecobra card list downloader",
-    "extractor and OCR",
+SCRIPTS_TO_RUN = [
+    "cubecobra_card_list_downloader",
+    "extractor_and_OCR",
     "archetype_decktype_data_downloader",
 ]
 
@@ -56,8 +56,8 @@ def run_script(name: str) -> None:
 def main() -> None:
     print("Starting draft pipeline...")
 
-    for notebook in NOTEBOOKS:
-        run_notebook(notebook)
+    for script in SCRIPTS_TO_RUN:
+        run_script(script)
 
     print(f"\n{'=' * 60}")
     print("  All scripts done. Launching Deck Editor...")
