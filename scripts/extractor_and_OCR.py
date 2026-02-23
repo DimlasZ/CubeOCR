@@ -13,7 +13,7 @@ import io
 from difflib import get_close_matches
 
 # Project root is one level up from this scripts/ folder
-PROJECT_ROOT      = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+PROJECT_ROOT      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, PROJECT_ROOT)
 from config import SCOPES, MAIN_FOLDER_ID
 

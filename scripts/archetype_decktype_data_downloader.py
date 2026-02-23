@@ -11,7 +11,7 @@ import os
 import time
 from io import StringIO
 
-PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'data', 'archetype_decktype_data')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

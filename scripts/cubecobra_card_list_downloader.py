@@ -16,7 +16,7 @@ import sys
 import time
 
 # Project root is one level up from this scripts/ folder
-PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CARDLIST_DIR = os.path.join(PROJECT_ROOT, 'data', 'cardlist')
 
 CUBE_ID = "dimlas5"

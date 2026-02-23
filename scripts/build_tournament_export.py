@@ -22,7 +22,7 @@ from io import StringIO
 import pandas as pd
 import requests
 
-ROOT          = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+ROOT          = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ZIP_DIR       = os.path.join(ROOT, "data", "zip")
 DATA_FINAL    = os.path.join(ROOT, "data", "final")
 
