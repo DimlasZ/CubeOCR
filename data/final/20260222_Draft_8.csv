@@ -120,6 +120,36 @@ Control-Aggro (Midrange),Simic Midrange,Joel K.,1,247939d9-87e9-4f01-b223-fb4cfa
 Control-Aggro (Midrange),Simic Midrange,Joel K.,1,18bd50f2-c3ba-4217-a2d5-bb771e199706
 Control-Aggro (Midrange),Simic Midrange,Joel K.,1,906b6e99-128f-4c11-8daf-16099d35b0d4
 Control-Aggro (Midrange),Simic Midrange,Joel K.,1,4acaef84-55d1-43dc-b10a-696182e6709b
+Combo,Reanimator-Flash,Kas,1,63af3c26-5b1f-46f6-9aa2-036c615bf5ea
+Combo,Reanimator-Flash,Kas,1,f62fd592-4910-417d-a500-e7029f3d119f
+Combo,Reanimator-Flash,Kas,1,bb41ff5c-9617-4033-a4fa-99323640b9c3
+Combo,Reanimator-Flash,Kas,1,b045c28a-39f9-4cd9-8f3a-a626b697f409
+Combo,Reanimator-Flash,Kas,1,f0192cf7-3391-4720-b9c8-72dec5dde01e
+Combo,Reanimator-Flash,Kas,1,04fc99dc-bfbe-4567-b791-6b1db96471ec
+Combo,Reanimator-Flash,Kas,1,4c732dc7-dd6b-4cc1-bbe0-ff3b1d2c7419
+Combo,Reanimator-Flash,Kas,1,05bdd22c-3e11-4c29-bdfa-d3dfc0e90a9f
+Combo,Reanimator-Flash,Kas,1,612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1
+Combo,Reanimator-Flash,Kas,1,17824929-f131-4b8d-addb-66c25323155e
+Combo,Reanimator-Flash,Kas,1,02d6d693-f1f3-4317-bcc0-c21fa8490d38
+Combo,Reanimator-Flash,Kas,1,1ee98955-4c47-4d45-9377-608dfa755337
+Combo,Reanimator-Flash,Kas,1,311a6257-dd77-4bb6-81cb-c8e7862350f3
+Combo,Reanimator-Flash,Kas,1,a1febcf1-afa4-4406-9ac1-5bf98b2765d2
+Combo,Reanimator-Flash,Kas,1,e6befbc4-1320-4f26-bd9f-b1814fedda10
+Combo,Reanimator-Flash,Kas,1,4df8aabc-7fcb-4b7b-980b-18f499e6c170
+Combo,Reanimator-Flash,Kas,1,68841ca8-a043-4f30-9a17-e983ed960bc2
+Combo,Reanimator-Flash,Kas,1,0027e5ca-8046-40a0-bd73-79be55f28bff
+Combo,Reanimator-Flash,Kas,1,8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5
+Combo,Reanimator-Flash,Kas,1,3ee3945e-5089-4751-b7b3-5961c39d2a33
+Combo,Reanimator-Flash,Kas,1,9b911653-7b96-4cf3-a907-13c5c53a14f7
+Combo,Reanimator-Flash,Kas,1,62b3f560-262b-4bc3-9aef-535fd7082c28
+Combo,Reanimator-Flash,Kas,1,bd3d4b4b-cf31-4f89-8140-9650edb03c7b
+Combo,Reanimator-Flash,Kas,1,3faa8c5e-9e1b-4cee-b322-a033bf33dcbc
+Combo,Reanimator-Flash,Kas,1,b51666ae-2aef-4cb1-9cd4-44aec81530f8
+Combo,Reanimator-Flash,Kas,1,54f449ff-4025-465e-9ec5-a5cf42c4c9d3
+Combo,Reanimator-Flash,Kas,1,1066a94a-8e4f-4d77-820b-7a77a18116f0
+Combo,Reanimator-Flash,Kas,1,24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787
+Combo,Reanimator-Flash,Kas,1,0324641d-af55-4c53-b4dc-c8262e967da5
+Combo,Reanimator-Flash,Kas,1,4216656e-90e8-45fc-a0f6-0d0d79d0a021
 Aggro,Boros Aggro,Lukas Stalder,1,1af92296-455a-425e-9397-a96d09937767
 Aggro,Boros Aggro,Lukas Stalder,1,54e0c2cd-fa5f-427d-8e15-6066f002a8e3
 Aggro,Boros Aggro,Lukas Stalder,1,8c2996d9-3287-4480-8c04-7a378e37e3cf
@@ -321,33 +351,3 @@ Aggro,Gruul Aggro,Tommy,1,9d48aaff-46ab-411b-9456-171d4709f951
 Aggro,Gruul Aggro,Tommy,1,a87606cc-fbf0-4e2c-9798-f1c935d0573d
 Aggro,Gruul Aggro,Tommy,1,fa87bf1e-2062-4983-b1c4-98bffea69a4c
 Aggro,Gruul Aggro,Tommy,1,54a3ea87-005e-4985-b2a5-21711d0b71c0
-Combo,Reanimator-Flash,Kas,1,63af3c26-5b1f-46f6-9aa2-036c615bf5ea
-Combo,Reanimator-Flash,Kas,1,f62fd592-4910-417d-a500-e7029f3d119f
-Combo,Reanimator-Flash,Kas,1,bb41ff5c-9617-4033-a4fa-99323640b9c3
-Combo,Reanimator-Flash,Kas,1,b045c28a-39f9-4cd9-8f3a-a626b697f409
-Combo,Reanimator-Flash,Kas,1,f0192cf7-3391-4720-b9c8-72dec5dde01e
-Combo,Reanimator-Flash,Kas,1,04fc99dc-bfbe-4567-b791-6b1db96471ec
-Combo,Reanimator-Flash,Kas,1,4c732dc7-dd6b-4cc1-bbe0-ff3b1d2c7419
-Combo,Reanimator-Flash,Kas,1,05bdd22c-3e11-4c29-bdfa-d3dfc0e90a9f
-Combo,Reanimator-Flash,Kas,1,612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1
-Combo,Reanimator-Flash,Kas,1,17824929-f131-4b8d-addb-66c25323155e
-Combo,Reanimator-Flash,Kas,1,02d6d693-f1f3-4317-bcc0-c21fa8490d38
-Combo,Reanimator-Flash,Kas,1,1ee98955-4c47-4d45-9377-608dfa755337
-Combo,Reanimator-Flash,Kas,1,311a6257-dd77-4bb6-81cb-c8e7862350f3
-Combo,Reanimator-Flash,Kas,1,a1febcf1-afa4-4406-9ac1-5bf98b2765d2
-Combo,Reanimator-Flash,Kas,1,e6befbc4-1320-4f26-bd9f-b1814fedda10
-Combo,Reanimator-Flash,Kas,1,4df8aabc-7fcb-4b7b-980b-18f499e6c170
-Combo,Reanimator-Flash,Kas,1,68841ca8-a043-4f30-9a17-e983ed960bc2
-Combo,Reanimator-Flash,Kas,1,0027e5ca-8046-40a0-bd73-79be55f28bff
-Combo,Reanimator-Flash,Kas,1,8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5
-Combo,Reanimator-Flash,Kas,1,3ee3945e-5089-4751-b7b3-5961c39d2a33
-Combo,Reanimator-Flash,Kas,1,9b911653-7b96-4cf3-a907-13c5c53a14f7
-Combo,Reanimator-Flash,Kas,1,62b3f560-262b-4bc3-9aef-535fd7082c28
-Combo,Reanimator-Flash,Kas,1,bd3d4b4b-cf31-4f89-8140-9650edb03c7b
-Combo,Reanimator-Flash,Kas,1,3faa8c5e-9e1b-4cee-b322-a033bf33dcbc
-Combo,Reanimator-Flash,Kas,1,b51666ae-2aef-4cb1-9cd4-44aec81530f8
-Combo,Reanimator-Flash,Kas,1,54f449ff-4025-465e-9ec5-a5cf42c4c9d3
-Combo,Reanimator-Flash,Kas,1,1066a94a-8e4f-4d77-820b-7a77a18116f0
-Combo,Reanimator-Flash,Kas,1,24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787
-Combo,Reanimator-Flash,Kas,1,0324641d-af55-4c53-b4dc-c8262e967da5
-Combo,Reanimator-Flash,Kas,1,4216656e-90e8-45fc-a0f6-0d0d79d0a021

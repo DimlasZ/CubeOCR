@@ -123,6 +123,7 @@ def do_save(state, player, draft):
 
     combined.to_csv(out_path, index=False)
     st.toast(f"Saved {len(rows)} cards for {player}.", icon="✅")
+    st.rerun()
 
 
 # ── App ──────────────────────────────────────────────────────────────────────
@@ -156,6 +157,7 @@ with st.sidebar:
     player = st.radio(
         "Player",
         players,
+        key="player_select",
         format_func=lambda p: f"✅ {p}" if p in saved_players else p,
     )
 
