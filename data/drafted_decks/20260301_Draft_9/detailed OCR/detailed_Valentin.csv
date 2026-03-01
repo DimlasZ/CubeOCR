@@ -1,0 +1,49 @@
+status,official_name,ocr_input,note
+unmatched,,Column 1,no match found
+unmatched,,Column 2,no match found
+unmatched,,Column 3,no match found
+exact,Tropical Island,Tropical Island,
+exact,Kitesail Freebooter,Kitesail Freebooter,
+corrected,"Sheoldred, the Apocalypse","Sheoldred,the Apocalypse","corrected from: Sheoldred,the Apocalypse"
+unmatched,,Ster,no match found
+exact,Alpha Deathclaw,Alpha Deathclaw,
+corrected,Bloodchief's Thirst,"Bloodchief""s Thirst","corrected from: Bloodchief""s Thirst"
+exact,Arcane Denial,Arcane Denial,
+exact,Inquisition of Kozilek,Inquisition of Kozilek,
+unmatched,,Step,no match found
+exact,Faerie Mastermind,Faerie Mastermind,
+exact,"Narset, Parter of Veils","Narset, Parter of Veils",
+exact,Ertai Resurrected,Ertai Resurrected,
+unmatched,,Stept,no match found
+exact,Prismatic Vista,Prismatic Vista,
+exact,Psychic Frog,Psychic Frog,
+exact,Thieving Skydiver,Thieving Skydiver,
+exact,Scrawling Crawler,Scrawling Crawler,
+exact,Frantic Search,Frantic Search,
+exact,Sunset Saboteur,Sunset Saboteur,
+exact,Mutavault,Mutavault,
+unmatched,,Step,no match found
+exact,Concealing Curtains,Concealing Curtains,
+corrected,Mox Jet,Mox Iet,corrected from: Mox Iet
+exact,Night's Whisper,Night's Whisper,
+exact,Rot-Curse Rakshasa,Rot-Curse Rakshasa,
+unmatched,,Step,no match found
+exact,"Cecil, Dark Knight","Cecil, Dark Knight",
+exact,Heartless Act,Heartless Act,
+exact,Dark Ritual,Dark Ritual,
+exact,Windfall,Windfall,
+exact,Porcelain Legionnaire,Porcelain Legionnaire,
+exact,Polluted Delta,Polluted Delta,
+unmatched,,Artifact Creature Soldier,no match found
+corrected,Unearth,Death,corrected from: Death
+unmatched,,Life,no match found
+unmatched,,can be paid with either or 2 life..,no match found
+corrected,Remand,and,corrected from: and
+unmatched,,"First strike ""My tissues__ new design has lightweight plating",no match found
+unmatched,,Pay life. Sacrifice Polluted,no match found
+unmatched,,specially cultivated from heretics' spare,no match found
+unmatched,,Ielta: Search your library for an,no match found
+unmatched,,"land or Swamp card, put it onto the",no match found
+unmatched,,"~Izathel, priest of the Annex",no match found
+unmatched,,"uttletield, then shuflle your library.",no match found
+unmatched,,"here dragons once prevailed, their",no match found

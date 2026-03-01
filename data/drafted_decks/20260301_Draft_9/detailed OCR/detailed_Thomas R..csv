@@ -1,0 +1,36 @@
+status,official_name,ocr_input,note
+unmatched,,Column 1,no match found
+unmatched,,Column 2,no match found
+unmatched,,Column3,no match found
+exact,Mox Pearl,Mox Pearl,
+exact,Chart a Course,Chart a Course,
+exact,Time Walk,Time Walk,
+exact,Mana Vault,Mana Vault,
+exact,Tinker,Tinker,
+exact,Ledger Shredder,Ledger Shredder,
+exact,Lotus Petal,Lotus Petal,
+exact,Hullbreacher,Hullbreacher,
+exact,Pyroclasm,Pyroclasm,
+exact,Nettlecyst,Nettlecyst,
+corrected,Urza's Saga,Urza'$ Saga,corrected from: Urza'$ Saga
+exact,Phantasmal Image,Phantasmal Image,
+unmatched,,(As this Saga enters,no match found
+exact,Batterskull,Batterskull,
+exact,Grim Monolith,Grim Monolith,
+corrected,Library of Alexandria,Library of Alexandria_,corrected from: Library of Alexandria_
+exact,Memory Jar,Memory Jar,
+exact,Talisman of Progress,Talisman of Progress,
+exact,Tolarian Academy,Tolarian Academy,
+exact,Quantum Riddler,Quantum Riddler,
+exact,Talisman of Dominance,Talisman of Dominance,
+exact,Shadowspear,Shadowspear,
+exact,Wurmcoil Engine,Wurmcoil Engine,
+corrected,Mishra's Workshop,Mishra' s Workshop,corrected from: Mishra' s Workshop
+exact,Chain Lightning,Chain Lightning,
+exact,Myr Battlesphere,Myr Battlesphere,
+exact,"Otawara, Soaring City","Otawara, Soaring City",
+exact,Retrofitter Foundry,Retrofitter Foundry,
+exact,Xander's Lounge,Xander's Lounge,
+exact,Portal to Phyrexia,Portal to Phyrexia,
+exact,Pyrite Spellbomb,Pyrite Spellbomb,
+exact,Perilous Landscape,Perilous Landscape,
