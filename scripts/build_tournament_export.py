@@ -2,7 +2,7 @@
 build_tournament_export.py
 --------------------------
 Combines the newest data/final/*.csv with the newest matches file from
-DimlasZ/TournamentOrganizer/results on GitHub, then packages both into a
+DimlasZ/TournamentOrganizer-NativeReact/results on GitHub, then packages both into a
 .zip that mirrors the structure of the existing Draft csv data exports.
 
 Output zip layout:
@@ -26,7 +26,7 @@ ROOT          = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ZIP_DIR       = os.path.join(ROOT, "data", "zip")
 DATA_FINAL    = os.path.join(ROOT, "data", "final")
 
-GITHUB_API    = "https://api.github.com/repos/DimlasZ/TournamentOrganizer/contents/results"
+GITHUB_API    = "https://api.github.com/repos/DimlasZ/TournamentOrganizer-NativeReact/contents/results"
 
 
 def fetch_newest_github_matches():
